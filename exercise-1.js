@@ -8,3 +8,4 @@ users.map((users) =>
     `${users.name.title} ${users.name.first} ${users.name.last} is from ${users.location.country}`
   )
 );
+//
