@@ -31,3 +31,7 @@ console.log(resultShort);
 
 
 
+
+console.log(result);
+console.log(resultShort);
+
