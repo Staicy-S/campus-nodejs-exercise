@@ -1,0 +1,7 @@
+{
+  "name": "campus-starter-users-nodejs",
+  "version": "1.0.0",
+  "description": "Training of React and Array Methods",
+  "main": "index.js",
+  "type": "module"
+}
