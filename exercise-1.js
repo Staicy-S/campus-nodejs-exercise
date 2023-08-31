@@ -25,5 +25,13 @@ const resultShort = users.map(
   (user) =>
     `${user.name.title} ${user.name.first} ${user.name.last} is from ${user.location.country}`
 );
+
 console.log(result);
 console.log(resultShort);
+
+
+
+
+console.log(result);
+console.log(resultShort);
+
