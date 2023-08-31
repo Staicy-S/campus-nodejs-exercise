@@ -28,3 +28,10 @@ const resultShort = users.map(
 
 console.log(result);
 console.log(resultShort);
+
+
+
+
+console.log(result);
+console.log(resultShort);
+
